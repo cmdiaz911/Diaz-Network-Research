@@ -7,6 +7,7 @@ Created on Sat Nov 12 15:44:30 2016
 
 import copy
 import zipfile 
+import platform 
 import networkx as nx 
 import matplotlib.pyplot as plt
 
@@ -39,6 +40,9 @@ for node_numb in list_of_node_numbers:
 			list_of_samples.append(list_of_nets[fyle])
 
 	dict_of_nets[node_numb] = {}
+	
+	
+	## CHANGE THIS TO MAKE IT NOT REQUIRE ALL OF THE FILES TO BE UNZIPPED IN THE DIRECTORY 
 	
 	for samples in list_of_samples:
 		dict_of_nets[node_numb][samples] = {}

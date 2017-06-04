@@ -4,6 +4,7 @@ Created on Tue Dec 27 15:12:31 2016
 
 @author: cmdiaz93
 """
+import platform
 import networkx as nx
 import matplotlib.pyplot as plt 
 
@@ -16,6 +17,9 @@ def get_file_names(): # function that will extract the names and extensions of a
 		
 		file_names[node_size] = [] # create seperate list for each size
 		for sample_num in range(1,11): # append all 10 sample file names into the dictionary list
+		
+		# NEED TO CHANGE THIS TO AN IF STATEMENT AND CHANGE THE PATH DEPENDING ON THE OS
+		
 			file_names[node_size].append("uav_ergm_samples_2/%s_nodes/%s_uav_sample_graph_%s.txt" % (node_size,node_size,sample_num))
 		
 	return file_names # return the dict of the file names keyed by node size 
