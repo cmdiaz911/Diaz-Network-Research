@@ -1,0 +1,122 @@
+*Vertices 30
+1 1 0.0388248 0.0775878 0.5 x_fact 1 y_fact 1 ic Black bc Black
+2 2 0.277398 0.226216 0.5 x_fact 1 y_fact 1 ic Black bc Black
+3 3 0.589573 0.891248 0.5 x_fact 1 y_fact 1 ic Black bc Black
+4 4 0.949108 0.20975 0.5 x_fact 1 y_fact 1 ic Black bc Black
+5 5 0.520971 0.777836 0.5 x_fact 1 y_fact 1 ic Black bc Black
+6 6 0.463494 0.365139 0.5 x_fact 1 y_fact 1 ic Black bc Black
+7 7 0.29396 0.868176 0.5 x_fact 1 y_fact 1 ic Black bc Black
+8 8 0.0189309 0.58371 0.5 x_fact 1 y_fact 1 ic Black bc Black
+9 9 0.271408 0.752772 0.5 x_fact 1 y_fact 1 ic Black bc Black
+10 10 0.916668 0.662553 0.5 x_fact 1 y_fact 1 ic Black bc Black
+11 11 0.958371 0.81649 0.5 x_fact 1 y_fact 1 ic Black bc Black
+12 12 0.137298 0.549732 0.5 x_fact 1 y_fact 1 ic Black bc Black
+13 13 0.841291 0.54733 0.5 x_fact 1 y_fact 1 ic Black bc Black
+14 14 0.560285 0.743534 0.5 x_fact 1 y_fact 1 ic Black bc Black
+15 15 0.590241 0.946477 0.5 x_fact 1 y_fact 1 ic Black bc Black
+16 16 0.758824 0.268525 0.5 x_fact 1 y_fact 1 ic Black bc Black
+17 17 0.445961 0.445355 0.5 x_fact 1 y_fact 1 ic Black bc Black
+18 18 0.192966 0.745709 0.5 x_fact 1 y_fact 1 ic Black bc Black
+19 19 0.13501 0.972723 0.5 x_fact 1 y_fact 1 ic Black bc Black
+20 20 0.407649 0.451134 0.5 x_fact 1 y_fact 1 ic Black bc Black
+21 21 0.175841 0.54015 0.5 x_fact 1 y_fact 1 ic Black bc Black
+22 22 0.570663 0.108686 0.5 x_fact 1 y_fact 1 ic Black bc Black
+23 23 0.0732263 0.715461 0.5 x_fact 1 y_fact 1 ic Black bc Black
+24 24 0.27261 0.339275 0.5 x_fact 1 y_fact 1 ic Black bc Black
+25 25 0.166836 0.773531 0.5 x_fact 1 y_fact 1 ic Black bc Black
+26 26 0.0796299 0.00282144 0.5 x_fact 1 y_fact 1 ic Black bc Black
+27 27 0.0693727 0.958288 0.5 x_fact 1 y_fact 1 ic Black bc Black
+28 28 0.682458 0.111368 0.5 x_fact 1 y_fact 1 ic Black bc Black
+29 29 0.401797 0.72916 0.5 x_fact 1 y_fact 1 ic Black bc Black
+30 30 0.751345 0.429342 0.5 x_fact 1 y_fact 1 ic Black bc Black
+*Edges 
+1 2 1 c Black
+1 26 1 c Black
+2 6 1 c Black
+2 17 1 c Black
+2 20 1 c Black
+2 24 1 c Black
+2 26 1 c Black
+3 5 1 c Black
+3 7 1 c Black
+3 14 1 c Black
+3 15 1 c Black
+3 29 1 c Black
+4 16 1 c Black
+4 28 1 c Black
+4 30 1 c Black
+5 7 1 c Black
+5 9 1 c Black
+5 14 1 c Black
+5 15 1 c Black
+5 29 1 c Black
+6 17 1 c Black
+6 20 1 c Black
+6 22 1 c Black
+6 24 1 c Black
+6 30 1 c Black
+7 9 1 c Black
+7 14 1 c Black
+7 18 1 c Black
+7 19 1 c Black
+7 23 1 c Black
+7 25 1 c Black
+7 27 1 c Black
+7 29 1 c Black
+8 12 1 c Black
+8 18 1 c Black
+8 21 1 c Black
+8 23 1 c Black
+8 25 1 c Black
+9 12 1 c Black
+9 14 1 c Black
+9 18 1 c Black
+9 19 1 c Black
+9 21 1 c Black
+9 23 1 c Black
+9 25 1 c Black
+9 27 1 c Black
+9 29 1 c Black
+10 11 1 c Black
+10 13 1 c Black
+10 30 1 c Black
+11 13 1 c Black
+12 18 1 c Black
+12 20 1 c Black
+12 21 1 c Black
+12 23 1 c Black
+12 24 1 c Black
+12 25 1 c Black
+13 16 1 c Black
+13 30 1 c Black
+14 15 1 c Black
+14 29 1 c Black
+15 29 1 c Black
+16 22 1 c Black
+16 28 1 c Black
+16 30 1 c Black
+17 20 1 c Black
+17 21 1 c Black
+17 24 1 c Black
+17 29 1 c Black
+18 19 1 c Black
+18 21 1 c Black
+18 23 1 c Black
+18 25 1 c Black
+18 27 1 c Black
+18 29 1 c Black
+19 23 1 c Black
+19 25 1 c Black
+19 27 1 c Black
+20 21 1 c Black
+20 24 1 c Black
+20 29 1 c Black
+21 23 1 c Black
+21 24 1 c Black
+21 25 1 c Black
+21 29 1 c Black
+22 28 1 c Black
+23 25 1 c Black
+23 27 1 c Black
+25 27 1 c Black
+25 29 1 c Black

@@ -10,6 +10,7 @@ import zipfile
 import platform 
 import networkx as nx 
 import matplotlib.pyplot as plt
+import os
 
 def mapping(x):
 	return int(x)-1
@@ -19,6 +20,7 @@ dict_of_nets = {}
 list_of_node_numbers = [10,15,20,25,30,40]
 
 for node_numb in list_of_node_numbers:
+	list_of_samples_by_node_number = []
 	list_of_nets = []
 	list_of_txts= []
 	with zipfile.ZipFile('unit_disk_%s_con.zip' %node_numb, 'r') as myzip:
@@ -29,7 +31,6 @@ for node_numb in list_of_node_numbers:
 			elif files[-3:] == 'txt':
 				list_of_txts.append(files)
 				
-
 	for name in range(len(list_of_nets)):
 		if list_of_nets[name][-6:] == '10.net':
 			list_of_nets[name] = list_of_nets[name][-22:]
@@ -38,15 +39,23 @@ for node_numb in list_of_node_numbers:
 	
 	for fyle in range(len(list_of_nets)):
 			list_of_samples.append(list_of_nets[fyle])
+			list_of_samples_by_node_number.append(list_of_nets[fyle])
+	print list_of_samples
 
 	dict_of_nets[node_numb] = {}
 	
 	
 	## CHANGE THIS TO MAKE IT NOT REQUIRE ALL OF THE FILES TO BE UNZIPPED IN THE DIRECTORY 
-	
-	for samples in list_of_samples:
+
+	for samples in list_of_samples_by_node_number:
 		dict_of_nets[node_numb][samples] = {}
-		G = nx.read_pajek(samples)
+		if platform.system() == "Windows":
+			G = nx.read_pajek('unit_disk_%s_con/%s' % (node_numb,samples))
+			
+
+		else:
+			G = nx.read_pajek('unit_disk_%s_con/%s' % (node_numb,samples))
+		
 		G1 = nx.Graph(G, directed = False)
 		G1 = G1.to_directed()
 		G1 = nx.relabel_nodes(G1,mapping,copy=False)
@@ -62,3 +71,6 @@ for node_numb in list_of_node_numbers:
 sample_list_by_node_number = [] 
 for sample in range(0,len(list_of_samples),10):
 	sample_list_by_node_number.append([x for x in list_of_samples[sample:sample+10]])
+
+print sample_list_by_node_number
+print dict_of_nets

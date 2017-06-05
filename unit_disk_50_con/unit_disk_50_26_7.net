@@ -1,0 +1,225 @@
+*Vertices 50
+1 1 0.924446 0.372695 0.5 x_fact 1 y_fact 1 ic Black bc Black
+2 2 0.079711 0.992661 0.5 x_fact 1 y_fact 1 ic Black bc Black
+3 3 0.104603 0.349345 0.5 x_fact 1 y_fact 1 ic Black bc Black
+4 4 0.0328606 0.939808 0.5 x_fact 1 y_fact 1 ic Black bc Black
+5 5 0.384509 0.564322 0.5 x_fact 1 y_fact 1 ic Black bc Black
+6 6 0.997303 0.700066 0.5 x_fact 1 y_fact 1 ic Black bc Black
+7 7 0.617119 0.986235 0.5 x_fact 1 y_fact 1 ic Black bc Black
+8 8 0.882078 0.644667 0.5 x_fact 1 y_fact 1 ic Black bc Black
+9 9 0.971212 0.0590231 0.5 x_fact 1 y_fact 1 ic Black bc Black
+10 10 0.465445 0.29806 0.5 x_fact 1 y_fact 1 ic Black bc Black
+11 11 0.392602 0.764122 0.5 x_fact 1 y_fact 1 ic Black bc Black
+12 12 0.102821 0.00448149 0.5 x_fact 1 y_fact 1 ic Black bc Black
+13 13 0.162063 0.496456 0.5 x_fact 1 y_fact 1 ic Black bc Black
+14 14 0.56379 0.599148 0.5 x_fact 1 y_fact 1 ic Black bc Black
+15 15 0.514611 0.702409 0.5 x_fact 1 y_fact 1 ic Black bc Black
+16 16 0.0933251 0.288612 0.5 x_fact 1 y_fact 1 ic Black bc Black
+17 17 0.0333541 0.323411 0.5 x_fact 1 y_fact 1 ic Black bc Black
+18 18 0.651216 0.148617 0.5 x_fact 1 y_fact 1 ic Black bc Black
+19 19 0.956691 0.728432 0.5 x_fact 1 y_fact 1 ic Black bc Black
+20 20 0.367957 0.32043 0.5 x_fact 1 y_fact 1 ic Black bc Black
+21 21 0.690379 0.922572 0.5 x_fact 1 y_fact 1 ic Black bc Black
+22 22 0.348131 0.157407 0.5 x_fact 1 y_fact 1 ic Black bc Black
+23 23 0.014922 0.38377 0.5 x_fact 1 y_fact 1 ic Black bc Black
+24 24 0.581644 0.509668 0.5 x_fact 1 y_fact 1 ic Black bc Black
+25 25 0.694706 0.21588 0.5 x_fact 1 y_fact 1 ic Black bc Black
+26 26 0.61561 0.982489 0.5 x_fact 1 y_fact 1 ic Black bc Black
+27 27 0.805636 0.771844 0.5 x_fact 1 y_fact 1 ic Black bc Black
+28 28 0.691902 0.820977 0.5 x_fact 1 y_fact 1 ic Black bc Black
+29 29 0.792283 0.475911 0.5 x_fact 1 y_fact 1 ic Black bc Black
+30 30 0.794164 0.0651815 0.5 x_fact 1 y_fact 1 ic Black bc Black
+31 31 0.670475 0.553314 0.5 x_fact 1 y_fact 1 ic Black bc Black
+32 32 0.414372 0.615113 0.5 x_fact 1 y_fact 1 ic Black bc Black
+33 33 0.849486 0.0576049 0.5 x_fact 1 y_fact 1 ic Black bc Black
+34 34 0.318837 0.531518 0.5 x_fact 1 y_fact 1 ic Black bc Black
+35 35 0.237893 0.88662 0.5 x_fact 1 y_fact 1 ic Black bc Black
+36 36 0.00203181 0.793356 0.5 x_fact 1 y_fact 1 ic Black bc Black
+37 37 0.187601 0.157128 0.5 x_fact 1 y_fact 1 ic Black bc Black
+38 38 0.425763 0.265849 0.5 x_fact 1 y_fact 1 ic Black bc Black
+39 39 0.88717 0.621113 0.5 x_fact 1 y_fact 1 ic Black bc Black
+40 40 0.125653 0.950174 0.5 x_fact 1 y_fact 1 ic Black bc Black
+41 41 0.58007 0.176005 0.5 x_fact 1 y_fact 1 ic Black bc Black
+42 42 0.798116 0.107397 0.5 x_fact 1 y_fact 1 ic Black bc Black
+43 43 0.805223 0.753374 0.5 x_fact 1 y_fact 1 ic Black bc Black
+44 44 0.630441 0.197593 0.5 x_fact 1 y_fact 1 ic Black bc Black
+45 45 0.0290235 0.0379073 0.5 x_fact 1 y_fact 1 ic Black bc Black
+46 46 0.0349273 0.618718 0.5 x_fact 1 y_fact 1 ic Black bc Black
+47 47 0.850247 0.848815 0.5 x_fact 1 y_fact 1 ic Black bc Black
+48 48 0.294203 0.671108 0.5 x_fact 1 y_fact 1 ic Black bc Black
+49 49 0.641295 0.599194 0.5 x_fact 1 y_fact 1 ic Black bc Black
+50 50 0.189998 0.646316 0.5 x_fact 1 y_fact 1 ic Black bc Black
+*Edges 
+1 29 1 c Black
+1 39 1 c Black
+2 4 1 c Black
+2 35 1 c Black
+2 36 1 c Black
+2 40 1 c Black
+3 13 1 c Black
+3 16 1 c Black
+3 17 1 c Black
+3 23 1 c Black
+3 37 1 c Black
+4 35 1 c Black
+4 36 1 c Black
+4 40 1 c Black
+5 11 1 c Black
+5 13 1 c Black
+5 14 1 c Black
+5 15 1 c Black
+5 20 1 c Black
+5 24 1 c Black
+5 32 1 c Black
+5 34 1 c Black
+5 48 1 c Black
+5 49 1 c Black
+5 50 1 c Black
+6 8 1 c Black
+6 19 1 c Black
+6 27 1 c Black
+6 39 1 c Black
+6 43 1 c Black
+6 47 1 c Black
+7 21 1 c Black
+7 26 1 c Black
+7 28 1 c Black
+8 19 1 c Black
+8 27 1 c Black
+8 28 1 c Black
+8 29 1 c Black
+8 31 1 c Black
+8 39 1 c Black
+8 43 1 c Black
+8 47 1 c Black
+8 49 1 c Black
+9 30 1 c Black
+9 33 1 c Black
+9 42 1 c Black
+10 18 1 c Black
+10 20 1 c Black
+10 22 1 c Black
+10 24 1 c Black
+10 25 1 c Black
+10 38 1 c Black
+10 41 1 c Black
+10 44 1 c Black
+11 14 1 c Black
+11 15 1 c Black
+11 32 1 c Black
+11 34 1 c Black
+11 35 1 c Black
+11 48 1 c Black
+11 50 1 c Black
+12 37 1 c Black
+12 45 1 c Black
+13 16 1 c Black
+13 17 1 c Black
+13 23 1 c Black
+13 34 1 c Black
+13 46 1 c Black
+13 48 1 c Black
+13 50 1 c Black
+14 15 1 c Black
+14 24 1 c Black
+14 28 1 c Black
+14 29 1 c Black
+14 31 1 c Black
+14 32 1 c Black
+14 34 1 c Black
+14 49 1 c Black
+15 24 1 c Black
+15 28 1 c Black
+15 31 1 c Black
+15 32 1 c Black
+15 34 1 c Black
+15 48 1 c Black
+15 49 1 c Black
+16 17 1 c Black
+16 23 1 c Black
+16 37 1 c Black
+16 45 1 c Black
+17 23 1 c Black
+17 37 1 c Black
+18 25 1 c Black
+18 30 1 c Black
+18 33 1 c Black
+18 38 1 c Black
+18 41 1 c Black
+18 42 1 c Black
+18 44 1 c Black
+19 27 1 c Black
+19 39 1 c Black
+19 43 1 c Black
+19 47 1 c Black
+20 22 1 c Black
+20 34 1 c Black
+20 37 1 c Black
+20 38 1 c Black
+20 41 1 c Black
+21 26 1 c Black
+21 27 1 c Black
+21 28 1 c Black
+21 43 1 c Black
+21 47 1 c Black
+22 37 1 c Black
+22 38 1 c Black
+22 41 1 c Black
+23 46 1 c Black
+24 29 1 c Black
+24 31 1 c Black
+24 32 1 c Black
+24 49 1 c Black
+25 30 1 c Black
+25 33 1 c Black
+25 41 1 c Black
+25 42 1 c Black
+25 44 1 c Black
+26 28 1 c Black
+27 28 1 c Black
+27 31 1 c Black
+27 39 1 c Black
+27 43 1 c Black
+27 47 1 c Black
+27 49 1 c Black
+28 43 1 c Black
+28 47 1 c Black
+28 49 1 c Black
+29 31 1 c Black
+29 39 1 c Black
+29 49 1 c Black
+30 33 1 c Black
+30 41 1 c Black
+30 42 1 c Black
+30 44 1 c Black
+31 39 1 c Black
+31 43 1 c Black
+31 49 1 c Black
+32 34 1 c Black
+32 48 1 c Black
+32 49 1 c Black
+32 50 1 c Black
+33 42 1 c Black
+33 44 1 c Black
+34 48 1 c Black
+34 50 1 c Black
+35 36 1 c Black
+35 40 1 c Black
+35 48 1 c Black
+35 50 1 c Black
+36 40 1 c Black
+36 46 1 c Black
+36 50 1 c Black
+37 45 1 c Black
+38 41 1 c Black
+38 44 1 c Black
+39 43 1 c Black
+39 47 1 c Black
+39 49 1 c Black
+41 42 1 c Black
+41 44 1 c Black
+42 44 1 c Black
+43 47 1 c Black
+43 49 1 c Black
+46 50 1 c Black
+48 50 1 c Black
