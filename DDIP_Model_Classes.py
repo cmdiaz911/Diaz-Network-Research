@@ -188,11 +188,9 @@ class UAVnet(nx.DiGraph): # DiGraph is a class in networkx, this makes us inheri
 			total_total = sum(total_total_tracker)
 			
 			xUAVnet.Markov_Probabilities['Total_Lists'][xtarget_node.name][xsource_node.name] = total_total #he total proabability 
-			
-		
+
 	# this metgod will take bids from the uavs and communicate to the node being asked to connect to
 	# the uav being asked will decide who gets the tie, based on the information passed to it.
-
 
 	def ModifyGraph(self):
 		for node in self.node_objs:
@@ -475,14 +473,14 @@ class UAV(object):
 		
 	#this method will initialize the first connections for the graph if the initial simulation graph is empty
 	#this method will also run if a UAV has decided to delete its ties incoming and has isolated itsel
-	def UnisolateUAV(self, xUAVnet):
+	def UnisolateUAV(self, xUAVnet, seed):
 		edge_choices = [] # saves the list of possible edges to add to unisolate itself
 		
 		for edge in self.potential_edges: #looks at all the possible edges in the graph
 			if edge[1] == self.name: # if the edge is an indirected edge and shares the same name as the node
 				edge_choices.append(edge[0]) # add it to the list of choices for the node
 	
-		# SOMETHING IS WRONG HERE WHEN RUNNING ERGM GRAPHS
+		random.seed(seed)
 		edge_to_add = random.choice(edge_choices) # make a random choice of the edge to add to the graph 
 		xUAVnet.add_edge(edge_to_add, self.name) # add the edge to the graph
 		
@@ -492,7 +490,7 @@ class UAV(object):
 # This classs will save the results
 class FinalResults(object):
 	
-	def __init__(self, xpossible_edge_list, xfinal_edge_list, xnumber_of_nodes, xnumber_of_rounds,xgraph_name, xgamma, xscaling_factor):
+	def __init__(self, xpossible_edge_list, xfinal_edge_list, xnumber_of_nodes, xnumber_of_rounds,xgraph_name, xgamma, xscaling_factor, xefficiency_scale):
 		self.possible_edge_list = xpossible_edge_list
 		self.final_edge_list = xfinal_edge_list
 		self.number_of_nodes = xnumber_of_nodes
@@ -500,6 +498,7 @@ class FinalResults(object):
 		self.scaling_factor = xscaling_factor 
 		self.number_of_rounds = xnumber_of_rounds
 		self.graph_name = xgraph_name
+		self.efficiency_scale = xefficiency_scale
 
 
 		final_graph = UAVnet() # saves the final graph
@@ -541,8 +540,8 @@ class FinalResults(object):
 		nx.set_node_attributes(final_graph, 'pos',self.pos)
 		self.final_graph = final_graph
 		
-		self.edge_efficiency = math.exp(self.average_inverse_distance*3.15) * self.number_of_nodes / float(len(self.final_edge_list))
-		self.fully_connected_edge_efficiency = math.exp(self.fully_connected_inverse_distance*3.15) * self.number_of_nodes/ float(len(self.possible_edge_list))
+		self.edge_efficiency = math.exp(self.average_inverse_distance*self.efficiency_scale) * self.number_of_nodes / float(len(self.final_edge_list))
+		self.fully_connected_edge_efficiency = math.exp(self.fully_connected_inverse_distance*self.efficiency_scale) * self.number_of_nodes/ float(len(self.possible_edge_list))
 		self.edge_number = len(self.final_edge_list)
 		
 	def ReportResults(self): # write the detailed results to a file 
@@ -566,7 +565,7 @@ class FinalResults(object):
 		f2.write("All Eligible Ties Connected Average Inverse Distance = " + str(self.fully_connected_inverse_distance) + "\n")
 		f2.write("Percentage of Edges Used = " + str(self.ratio_of_edges) + "\n")
 		f2.write("\n")
-		f2.write("Final Graph Edge Efficiency = "  + str(self.edge_efficiency)  + "\n")
+		f2.write("Final Graph Edge Efficiency = "  + str(self.edge_efficiency) + "\n")
 		f2.write("Fully Connected Edge Efficiency = " + str(self.fully_connected_edge_efficiency) + "\n" )
 		f2.write("\n")
 		f2.write("Sample File Name =  " + str(self.graph_name) + "\n")

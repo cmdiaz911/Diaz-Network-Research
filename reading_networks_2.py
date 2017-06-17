@@ -40,7 +40,7 @@ for node_numb in list_of_node_numbers:
 	for fyle in range(len(list_of_nets)):
 			list_of_samples.append(list_of_nets[fyle])
 			list_of_samples_by_node_number.append(list_of_nets[fyle])
-	print list_of_samples
+	#print list_of_samples
 
 	dict_of_nets[node_numb] = {}
 	
@@ -72,5 +72,5 @@ sample_list_by_node_number = []
 for sample in range(0,len(list_of_samples),10):
 	sample_list_by_node_number.append([x for x in list_of_samples[sample:sample+10]])
 
-print sample_list_by_node_number
-print dict_of_nets
+#print sample_list_by_node_number
+#print dict_of_nets

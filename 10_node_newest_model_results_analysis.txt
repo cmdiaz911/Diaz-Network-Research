@@ -1,0 +1,418 @@
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 8), (0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (2, 4), (2, 6), (3, 0), (3, 9), (3, 4), (3, 8), (4, 0), (4, 8), (4, 2), (4, 3), (5, 9), (5, 7), (6, 8), (6, 2), (6, 7), (6, 1), (7, 9), (7, 5), (7, 6), (8, 0), (8, 2), (8, 3), (8, 4), (8, 6), (9, 3), (9, 5), (9, 7)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 34
+
+Final Edge List = [(0, 3), (0, 4), (1, 2), (1, 6), (2, 8), (2, 1), (3, 0), (3, 9), (5, 7), (7, 5)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.86666666667
+Average Inverse Distance = 0.133333333333
+All Eligible Ties Connected Average Inverse Distance = 0.648148148148
+Percentage of Edges Used = 0.294117647059
+
+Final Graph Edge Efficiency = 1.52196155562
+Fully Connected Edge Efficiency = 2.26571693183
+
+Sample File Name =  unit_disk_10_34_3.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================
+Possible Starting Edge List = [(0, 1), (0, 3), (0, 5), (0, 6), (0, 8), (0, 9), (1, 0), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 9), (2, 5), (3, 0), (3, 1), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8), (3, 9), (4, 1), (4, 3), (4, 5), (4, 6), (4, 7), (4, 8), (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 6), (5, 7), (5, 8), (5, 9), (6, 0), (6, 1), (6, 3), (6, 4), (6, 5), (6, 7), (6, 8), (7, 1), (7, 3), (7, 4), (7, 5), (7, 6), (8, 0), (8, 1), (8, 3), (8, 4), (8, 5), (8, 6), (9, 0), (9, 1), (9, 2), (9, 3), (9, 5)]
+Edge Number of Nodes = 10
+Number of Possible Edges = 62
+
+Final Edge List = [(1, 8), (1, 9), (1, 3), (1, 6), (2, 5), (3, 0), (3, 1), (3, 4), (3, 7), (5, 2)]
+Number of Edges Used= 10
+
+Gamma Parameter = 1.3125
+Scaling Factor = 1.125
+
+Average Distance = BAD GRAPH UNCONNECTED
+Average Fully Connected Distance = 1.31111111111
+Average Inverse Distance = 0.144444444444
+All Eligible Ties Connected Average Inverse Distance = 0.844444444444
+Percentage of Edges Used = 0.161290322581
+
+Final Graph Edge Efficiency = 1.57617338303
+Fully Connected Edge Efficiency = 2.30585308043
+
+Sample File Name =  unit_disk_10_48_1.net
+
+===========================

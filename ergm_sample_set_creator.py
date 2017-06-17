@@ -4,7 +4,6 @@ Created on Tue Dec 27 15:12:31 2016
 
 @author: cmdiaz93
 """
-import platform
 import networkx as nx
 import matplotlib.pyplot as plt 
 
@@ -47,7 +46,7 @@ def read_each_file(dict_of_files): # function that will return the edge sets for
 	return output_dict # return the dictionary of edge sets 
 	
 ergm_samples_dict = read_each_file(ergm_file_dict) # run the function, this ergm_samples_dict will be imported into the other files to be ran on it 
-print ergm_samples_dict
+#print ergm_samples_dict
 """
 for size in list_of_node_sizes:
 	for name in ergm_file_dict[size]:
