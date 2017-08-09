@@ -26,7 +26,7 @@ start_time = time.clock()
 #nelder_mead_gammas = [.6424, .555, 1.288, 5.0475,2.786,2.8098 ]
 #nelder_mead_scaling = [1.0964, 1.21,.8637,.526,.70884]
 for index in range(0,3):
-	test_gamma = alg_results[index][0][0] # what tdo I make this 
+	test_gamma = alg_results[index][0][0] # what do I make this 
 	test_scaling_factor = alg_results[index][0][1] # not sure if this should be large or small, will have to test the model and print choices until this makes sense
 	print test_gamma
 	print test_scaling_factor

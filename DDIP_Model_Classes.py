@@ -544,6 +544,10 @@ class FinalResults(object):
 		self.fully_connected_edge_efficiency = math.exp(self.fully_connected_inverse_distance*self.efficiency_scale) * self.number_of_nodes/ float(len(self.possible_edge_list))
 		self.edge_number = len(self.final_edge_list)
 		
+		if self.average_distance == "BAD GRAPH UNCONNECTED":
+			self.unpenalized_efficiency = self.edge_efficiency
+			self.edge_efficiency = (self.edge_efficiency)/100.0 # penalize the graphs that are unconnected 
+		
 	def ReportResults(self): # write the detailed results to a file 
 		#f2 = open("/Users/cmdiaz93/Documents/%s_node_results_ergm/%s_node_results_lists_final.txt" % (self.number_of_nodes, self.number_of_nodes),'a')
 		#f2 = open("%s_node_restriction_analysis.txt" % self.number_of_nodes, 'a')
