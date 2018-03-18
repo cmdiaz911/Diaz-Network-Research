@@ -8,8 +8,7 @@ from DDIP_Model_Classes import UAVnet
 from DDIP_Model_Classes import UAV
 from DDIP_Model_Classes import FinalResults
 import random 
-import copy 
-
+import copy
 def runsimulation(xnode_number, xgamma, xscaling_factor,xfeasible_edge_set, xnumber_of_periods, xgraph_name,xseed, xefficiency_scale = 2 ,xedge_number = 0):
 	############################ THIS FIRST SECTION WILL INITIALIZE THE UAV NETWORK GRAPH #############################	
 	#if xnumber_of_periods <= 0 or xmax_outgoing_ties < int(.2*xnode_number)  or xcost_of_ties <= 0 or xmessage_number <= 0: 
@@ -23,23 +22,25 @@ def runsimulation(xnode_number, xgamma, xscaling_factor,xfeasible_edge_set, xnum
 	UAV_list = [UAV(node, UAVnetwork.total_possible_edge_list, xscaling_factor, xgamma) for node in range(len(UAVnetwork.nodes()))]
 	for node in UAV_list:
 		UAVnetwork.node_objs.append(node)
+
+		#MAKE SURE TO RESTRICT THE CHOICES TO THOSE WITHIN THE POSSIBLE EDGE SET
 	if xedge_number != 0: # if there is an input for the number of starting edges on the initial graph
 		number_of_edges_added = 0 # start with no edges added
 		while number_of_edges_added < xedge_number: # keep adding new edges until there are the amount requested
 			chosen_source = random.choice([x for x in range(xnode_number)])
 			chosen_target= random.choice([x for x in range(xnode_number) if x != chosen_source])
 			if (chosen_source, chosen_target) not in UAVnetwork.edges():
-				UAVnetwork.add_edge((chosen_source, chosen_target))
+				UAVnetwork.add_edge(chosen_source, chosen_target)
 				number_of_edges_added +=1 # only increase the counter if the edge is new
 	else:# if there is no edge parameter set 
 		for node in UAVnetwork.node_objs: # make sure that the nodes communicate their choices for the seed 
-			node.UnisolateUAV(UAVnetwork, xseed) # unisolate any nodes that have no indirected communication network 
+			node.UnisolateUAV(UAVnetwork, xseed) # un-isolate any nodes that have no in-directed communication network
 
 	UAVnetwork.UpdatePotentialEdges() 
 	for node in UAV_list:
 		node.CreateAttributes(UAVnetwork) # create the attributes for all of the uavs in the list 
 		
-	UAVnetwork.CreateMarkovDictionary() # set up the markov probabiliity dictionaries
+	UAVnetwork.CreateMarkovDictionary() # set up the markov probability dictionaries
 
 	for uav in UAVnetwork.node_objs:
 		uav.AttachNeighborObjects(UAVnetwork)
@@ -78,7 +79,7 @@ def runsimulation(xnode_number, xgamma, xscaling_factor,xfeasible_edge_set, xnum
 			node.EstimateAdditions() # Calculate addition estimates
 			node.EstimateSubtraction() # calculate subtraction estimates
 			node.CreateDecisionList() # append all of the decisions estimates to a single list
-			node.FinalDecisionList(UAVnetwork) # sort the decisions baesd on the estimated objective equation 
+			node.FinalDecisionList(UAVnetwork) # sort the decisions based on the estimated objective equation
 		UAVnetwork.round_of_decisions = 0  # set the number of decision round to 0
 		
 		UAVnetwork.ModifyGraph() # modify the graph

@@ -19,12 +19,12 @@ from reading_networks_2 import dict_of_nets
 import DDIP_Algorithm_Procedure as model
 
 
-def BOYBQA_Optimizer(xinit_parameters, xlower_bounds, xupper_bounds, xdx, xnode_sizes_list, xmax_eval=500, xftol=.001):
+def BOYBQA_Optimizer(xinit_parameters, xlower_bounds, xupper_bounds, xdx, xnode_sizes_list, xmax_eval=40, xftol=.001):
 	# this seed will  be used to avoid the inconsistences
 	# that come with testing the model using different starting parameters
 	seed = dt.datetime.today().minute
-	lists_per_set_type = 3  # not exactly a parameter to the optimization model, so will not put it in as an argument
-	node_index = 5  # starts at 10 when 0, 15 when 1 etc
+	lists_per_set_type = 3  # not exactly a parameter to the optimization model, so will not put it in a s an argument
+	node_index = 0  # starts at 10 when 0, 15 when 1 etc
 	optimimum_values = []
 	global count
 	global start_time
@@ -63,7 +63,7 @@ def BOYBQA_Optimizer(xinit_parameters, xlower_bounds, xupper_bounds, xdx, xnode_
 				# parameter 0 = gamma, parameter 1 = scaling factor, parameter 2 = number of iterations
 				# to get the result list from the procedure method
 				model_results = model.runsimulation(node_num, parameters[0], parameters[1],
-														xtest_list, parameters[2], file_name, seed, 2.75)[0]
+														xtest_list, parameters[2], file_name, seed, 3.0)[0]
 				list_of_objectives.append(model_results[2])  # gets 1 / edge efficiency to allow the algorithm to try to minimize
 				list_of_distances.append(model_results[1])
 				list_of_edge_counts.append(model_results[3])
@@ -97,16 +97,21 @@ def BOYBQA_Optimizer(xinit_parameters, xlower_bounds, xupper_bounds, xdx, xnode_
 
 		# go on to the next node size if applicable 
 		node_index += 1
+
+		f1 = open("BOBYQA_Algorithm_results_optimal_values_new.txt", 'a')
+		f1.write("optimal results: \n")
+		f1.write(str(optimimum_values) + "\n")
+		f1.close()
 	return optimimum_values  # return the list of lists that contains the optimimum results for each node size
 
 
 def save_algorithm_evaluations(xnode_num, xcount, xaverage_inv_distance, xaverage_edge_count, xaverage_edge_ratio,
-									xobjective_value, xseed, xparameters, xefficiency_scale, xrun=1):
+									xobjective_value, xseed, xparameters, xefficiency_scale, xrun= 6):
 
 	f1 = open("BOBYQA_Algorithm_results_node_size_%s_%s.txt" % (xnode_num, xrun), 'a')
 	f1.write("Seed of Algorithm: " + str(xseed) + "\n")
 	f1.write("Efficiency Scale: " + str(xefficiency_scale) + "\n")
-	f1.write("Number of Evalutations: " + str(xcount) + "\n")
+	f1.write("Number of Evaluatations: " + str(xcount) + "\n")
 	f1.write("Iteration found average inverse distance = " + str(xaverage_inv_distance) + "\n")
 	f1.write("Iteration found average edge count = " + str(xaverage_edge_count)+"\n")
 	f1.write("Iteration found average edge ratio of = " + str(xaverage_edge_ratio) + "\n")
@@ -121,8 +126,8 @@ lower_bounds = np.array([.15, 0.15, 5])
 upper_bounds = np.array([3.0, 3.0, 30])
 initial_parameters = np.array([.3, .75, 15])
 initial_step_sizes = np.array([.01, .05, 1])
-# node_sizes = [10,15,20,25]
-node_sizes = [40]
+node_sizes = [10,15,20,25]
+# node_sizes = [25]
 count = 0
 start_time = time.clock()
 alg_results = BOYBQA_Optimizer(initial_parameters, lower_bounds, upper_bounds, initial_step_sizes, node_sizes)

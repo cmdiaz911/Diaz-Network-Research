@@ -295,3 +295,1920 @@ Iteration found average edge ratio of = 0.471618272288
 Iteration found Objective Value = 5.53321913929
 Iteration Parameters:[  0.92330867   0.9231946   21.41740668]
 
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 1
+Iteration found average inverse distance = 0.356811125035
+Iteration found average edge count = 48.8333333333
+Iteration found average edge ratio of = 0.508343068845
+Iteration found Objective Value = 5.51433453278
+Iteration Parameters:[  0.8625   0.8625  15.    ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 2
+Iteration found average inverse distance = 0.256835839599
+Iteration found average edge count = 37.8333333333
+Iteration found average edge ratio of = 0.401568422856
+Iteration found Objective Value = 182.217279837
+Iteration Parameters:[  1.575    0.8625  15.    ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 3
+Iteration found average inverse distance = 0.256835839599
+Iteration found average edge count = 37.8333333333
+Iteration found average edge ratio of = 0.401568422856
+Iteration found Objective Value = 182.217279837
+Iteration Parameters:[  0.8625   1.575   15.    ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 4
+Iteration found average inverse distance = 0.379294068505
+Iteration found average edge count = 49.0
+Iteration found average edge ratio of = 0.508799893046
+Iteration found Objective Value = 5.17692368532
+Iteration Parameters:[  0.8625   0.8625  21.25  ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 5
+Iteration found average inverse distance = 0.539978070175
+Iteration found average edge count = 95.6666666667
+Iteration found average edge ratio of = 0.988505747126
+Iteration found Objective Value = 6.47854888568
+Iteration Parameters:[  0.15     0.8625  15.    ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 6
+Iteration found average inverse distance = 0.539978070175
+Iteration found average edge count = 95.6666666667
+Iteration found average edge ratio of = 0.988505747126
+Iteration found Objective Value = 6.47854888568
+Iteration Parameters:[  0.8625   0.15    15.    ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 7
+Iteration found average inverse distance = 0.357278122706
+Iteration found average edge count = 48.1666666667
+Iteration found average edge ratio of = 0.501702188455
+Iteration found Objective Value = 5.42988546523
+Iteration Parameters:[ 0.8625  0.8625  8.75  ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 8
+Iteration found average inverse distance = 0.448171470343
+Iteration found average edge count = 72.8333333333
+Iteration found average edge ratio of = 0.759849613186
+Iteration found Objective Value = 6.43168644481
+Iteration Parameters:[  0.51010616   0.51010616  25.71674226]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 9
+Iteration found average inverse distance = 0.421390455305
+Iteration found average edge count = 59.1666666667
+Iteration found average edge ratio of = 0.614895186533
+Iteration found Objective Value = 5.56815635174
+Iteration Parameters:[  0.64489169   0.64489169  19.67575491]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 10
+Iteration found average inverse distance = 0.33861024088
+Iteration found average edge count = 47.6666666667
+Iteration found average edge ratio of = 0.497951542671
+Iteration found Objective Value = 5.63331595152
+Iteration Parameters:[  0.8625    0.93375  21.875  ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 11
+Iteration found average inverse distance = 0.347541992608
+Iteration found average edge count = 48.1666666667
+Iteration found average edge ratio of = 0.501719371044
+Iteration found Objective Value = 5.58037095874
+Iteration Parameters:[  0.87423084   0.78482001  22.65232194]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 12
+Iteration found average inverse distance = 0.363538011696
+Iteration found average edge count = 50.6666666667
+Iteration found average edge ratio of = 0.526415631103
+Iteration found Objective Value = 5.6038873969
+Iteration Parameters:[  0.81211864   0.8625      21.69194174]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 13
+Iteration found average inverse distance = 0.344590928078
+Iteration found average edge count = 48.1666666667
+Iteration found average edge ratio of = 0.501714667994
+Iteration found Objective Value = 5.63190160835
+Iteration Parameters:[  0.84311358   0.81648087  20.80418496]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 14
+Iteration found average inverse distance = 0.346462478798
+Iteration found average edge count = 49.0
+Iteration found average edge ratio of = 0.508953502721
+Iteration found Objective Value = 5.67357457993
+Iteration Parameters:[  0.91288136   0.8625      20.80805826]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 15
+Iteration found average inverse distance = 0.384824561404
+Iteration found average edge count = 49.8333333333
+Iteration found average edge ratio of = 0.518962494672
+Iteration found Objective Value = 5.18636509524
+Iteration Parameters:[  0.89333711   0.85546273  21.8100389 ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 16
+Iteration found average inverse distance = 0.346462478798
+Iteration found average edge count = 49.0
+Iteration found average edge ratio of = 0.508953502721
+Iteration found Objective Value = 5.67357457993
+Iteration Parameters:[  0.8625       0.91288136  20.80805826]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 17
+Iteration found average inverse distance = 0.377149296853
+Iteration found average edge count = 49.6666666667
+Iteration found average edge ratio of = 0.517150900469
+Iteration found Objective Value = 5.28142189246
+Iteration Parameters:[  0.87203228   0.87960427  21.8509343 ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 18
+Iteration found average inverse distance = 0.350044587479
+Iteration found average edge count = 47.3333333333
+Iteration found average edge ratio of = 0.493139366756
+Iteration found Objective Value = 5.43926616344
+Iteration Parameters:[  0.84459978   0.870733    20.98964353]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 19
+Iteration found average inverse distance = 0.374932818157
+Iteration found average edge count = 49.1666666667
+Iteration found average edge ratio of = 0.511764420123
+Iteration found Objective Value = 5.25969321148
+Iteration Parameters:[  0.86153738   0.87248389  21.24155595]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 20
+Iteration found average inverse distance = 0.379294068505
+Iteration found average edge count = 49.0
+Iteration found average edge ratio of = 0.508799893046
+Iteration found Objective Value = 5.17692368532
+Iteration Parameters:[  0.87248196   0.85219358  21.34259408]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 21
+Iteration found average inverse distance = 0.387300922761
+Iteration found average edge count = 51.0
+Iteration found average edge ratio of = 0.530286394167
+Iteration found Objective Value = 5.27224144113
+Iteration Parameters:[  0.86056136   0.85789809  21.2054185 ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 22
+Iteration found average inverse distance = 0.373903160679
+Iteration found average edge count = 48.8333333333
+Iteration found average edge ratio of = 0.507699379473
+Iteration found Objective Value = 5.2359200993
+Iteration Parameters:[  0.8666978    0.86360776  21.2995571 ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 23
+Iteration found average inverse distance = 0.379294068505
+Iteration found average edge count = 49.0
+Iteration found average edge ratio of = 0.508799893046
+Iteration found Objective Value = 5.17692368532
+Iteration Parameters:[  0.86007369   0.86448258  21.23512952]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 24
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 25
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.859984     0.86195683  21.27104666]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 26
+Iteration found average inverse distance = 0.379294068505
+Iteration found average edge count = 49.0
+Iteration found average edge ratio of = 0.508799893046
+Iteration found Objective Value = 5.17692368532
+Iteration Parameters:[  0.86126114   0.86319519  21.25969125]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 27
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.861175     0.86179052  21.26102609]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 28
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86130079   0.8622724   21.26339367]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 29
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86110338   0.86247217  21.26008121]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 30
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86115422   0.86234625  21.26127262]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 31
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86129085   0.8625      21.2606066 ]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 32
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.8612769    0.86243877  21.26104748]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 33
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124054   0.86247822  21.26129582]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 34
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.8612476    0.86251484  21.26110809]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 35
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86125708   0.86249361  21.26104353]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 36
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86123498   0.86249889  21.26100985]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 37
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124138   0.8624957   21.26099932]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 38
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124135   0.86249908  21.26107773]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 39
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86123921   0.8625      21.26105959]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 40
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124075   0.86250059  21.26105093]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 41
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124113   0.86249974  21.26104834]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 42
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124041   0.86249999  21.26104816]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 43
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124048   0.86249996  21.26104805]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 44
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124048   0.86249998  21.26104913]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 45
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124046   0.8625      21.26104859]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 46
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 47
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.86250001  21.26104857]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 48
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 49
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 50
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104855]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 51
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 52
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 53
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 54
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 55
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 56
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 57
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 58
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 59
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 60
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 61
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 62
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 63
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 64
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 65
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 66
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 67
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 68
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 69
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 70
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 71
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 72
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 73
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 74
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 75
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 76
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 77
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 78
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 79
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 80
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 81
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 82
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 83
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 84
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 85
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 86
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 87
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 88
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 89
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 90
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 91
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 92
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 93
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 94
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 95
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 96
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 97
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 98
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 99
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 100
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 101
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 102
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 103
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 104
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 105
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 106
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 107
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 108
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 109
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 110
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 111
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 112
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 113
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 114
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 115
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 116
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 117
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 118
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 119
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 120
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 121
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 122
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 123
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 124
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 125
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 126
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 127
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 128
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 129
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 130
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 131
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 132
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 133
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 134
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 135
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 136
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 137
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 138
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 139
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 140
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 141
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 142
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 143
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 144
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 145
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 146
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 147
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 148
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 149
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 150
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 151
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 152
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 153
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 154
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 45
+Efficiency Scale: 2.75
+Number of Evalutations: 155
+Iteration found average inverse distance = 0.387269420394
+Iteration found average edge count = 50.0
+Iteration found average edge ratio of = 0.519207798849
+Iteration found Objective Value = 5.16553268246
+Iteration Parameters:[  0.86124047   0.8625      21.26104854]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 1
+Iteration found average inverse distance = 0.330609905445
+Iteration found average edge count = 46.1666666667
+Iteration found average edge ratio of = 0.481005024114
+Iteration found Objective Value = 5.58644652104
+Iteration Parameters:[  0.8625   0.8625  15.    ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 2
+Iteration found average inverse distance = 0.240805331365
+Iteration found average edge count = 34.1666666667
+Iteration found average edge ratio of = 0.364636481408
+Iteration found Objective Value = 166.493701992
+Iteration Parameters:[  1.575    0.8625  15.    ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 3
+Iteration found average inverse distance = 0.240805331365
+Iteration found average edge count = 34.1666666667
+Iteration found average edge ratio of = 0.364636481408
+Iteration found Objective Value = 166.493701992
+Iteration Parameters:[  0.8625   1.575   15.    ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 4
+Iteration found average inverse distance = 0.346929824561
+Iteration found average edge count = 47.6666666667
+Iteration found average edge ratio of = 0.496514980504
+Iteration found Objective Value = 5.51778901817
+Iteration Parameters:[  0.8625   0.8625  21.25  ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 5
+Iteration found average inverse distance = 0.534349415205
+Iteration found average edge count = 94.1666666667
+Iteration found average edge ratio of = 0.974239046598
+Iteration found Objective Value = 6.48252617018
+Iteration Parameters:[  0.15     0.8625  15.    ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 6
+Iteration found average inverse distance = 0.534349415205
+Iteration found average edge count = 94.1666666667
+Iteration found average edge ratio of = 0.974239046598
+Iteration found Objective Value = 6.48252617018
+Iteration Parameters:[  0.8625   0.15    15.    ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 7
+Iteration found average inverse distance = 0.329157837776
+Iteration found average edge count = 45.8333333333
+Iteration found average edge ratio of = 0.478140866994
+Iteration found Objective Value = 5.57152500768
+Iteration Parameters:[ 0.8625  0.8625  8.75  ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 8
+Iteration found average inverse distance = 0.44668128655
+Iteration found average edge count = 73.1666666667
+Iteration found average edge ratio of = 0.760831870999
+Iteration found Objective Value = 6.46467657955
+Iteration Parameters:[  0.51019555   0.51019555  21.25426626]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 9
+Iteration found average inverse distance = 0.378869395712
+Iteration found average edge count = 54.5
+Iteration found average edge ratio of = 0.566956558296
+Iteration found Objective Value = 5.80091538614
+Iteration Parameters:[  0.68669308   0.68669308  19.01190404]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 10
+Iteration found average inverse distance = 0.366854114453
+Iteration found average edge count = 48.8333333333
+Iteration found average edge ratio of = 0.507279121108
+Iteration found Objective Value = 5.34723002572
+Iteration Parameters:[  0.8625    0.93375  21.875  ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 11
+Iteration found average inverse distance = 0.360424530392
+Iteration found average edge count = 48.5
+Iteration found average edge ratio of = 0.503838374115
+Iteration found Objective Value = 5.3886440004
+Iteration Parameters:[  0.87116415   0.84127107  23.20824953]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 12
+Iteration found average inverse distance = 0.332226605023
+Iteration found average edge count = 45.1666666667
+Iteration found average edge ratio of = 0.471141481323
+Iteration found Objective Value = 5.4324753801
+Iteration Parameters:[  0.8625       0.98413136  22.31694174]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 13
+Iteration found average inverse distance = 0.360424530392
+Iteration found average edge count = 48.5
+Iteration found average edge ratio of = 0.503838374115
+Iteration found Objective Value = 5.3886440004
+Iteration Parameters:[  0.79265393   0.92410862  21.96494214]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 14
+Iteration found average inverse distance = 0.345909913673
+Iteration found average edge count = 46.6666666667
+Iteration found average edge ratio of = 0.484349520681
+Iteration found Objective Value = 5.39893002635
+Iteration Parameters:[  0.91031987   0.92896801  21.41358021]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 15
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89767864   0.92553542  22.41370978]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 16
+Iteration found average inverse distance = 0.311138104099
+Iteration found average edge count = 42.8333333333
+Iteration found average edge ratio of = 0.446558584456
+Iteration found Objective Value = 5.47953703645
+Iteration Parameters:[  0.86168845   0.93529071  22.94628245]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 17
+Iteration found average inverse distance = 0.316707915622
+Iteration found average edge count = 43.8333333333
+Iteration found average edge ratio of = 0.4568944558
+Iteration found Objective Value = 5.53198939115
+Iteration Parameters:[  0.87001629   0.91810214  22.22790198]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 18
+Iteration found average inverse distance = 0.335863443331
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.468760505181
+Iteration found Objective Value = 5.35435443878
+Iteration Parameters:[  0.89804694   0.9133892   22.44461348]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 19
+Iteration found average inverse distance = 0.334460836435
+Iteration found average edge count = 45.8333333333
+Iteration found average edge ratio of = 0.478233679905
+Iteration found Objective Value = 5.48104357655
+Iteration Parameters:[  0.9125153    0.92659463  22.49967327]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 20
+Iteration found average inverse distance = 0.336704434698
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469879888306
+Iteration found Objective Value = 5.34745871626
+Iteration Parameters:[  0.90179635   0.92446185  22.36358103]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 21
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89262622   0.92892246  22.38116295]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 22
+Iteration found average inverse distance = 0.33810794347
+Iteration found average edge count = 45.3333333333
+Iteration found average edge ratio of = 0.473085016511
+Iteration found Objective Value = 5.36792639519
+Iteration Parameters:[  0.89576517   0.92853771  22.41258997]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 23
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89641247   0.92488126  22.42308276]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 24
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89710868   0.92423269  22.40429922]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 25
+Iteration found average inverse distance = 0.336454013822
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469538917221
+Iteration found Objective Value = 5.35628285974
+Iteration Parameters:[  0.89827211   0.92557779  22.41714832]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 26
+Iteration found average inverse distance = 0.33649056353
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469538917221
+Iteration found Objective Value = 5.35570292217
+Iteration Parameters:[  0.89753654   0.92577988  22.40797303]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 27
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89767448   0.92517922  22.41375091]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 28
+Iteration found average inverse distance = 0.33649056353
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469538917221
+Iteration found Objective Value = 5.35570292217
+Iteration Parameters:[  0.89758297   0.92568553  22.41365379]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 29
+Iteration found average inverse distance = 0.33649056353
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469538917221
+Iteration found Objective Value = 5.35570292217
+Iteration Parameters:[  0.89780913   0.92550621  22.41267751]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 30
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.897628     0.92550925  22.4140847 ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 31
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89770197   0.92550185  22.41422169]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 32
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89766366   0.92550561  22.41360024]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 33
+Iteration found average inverse distance = 0.33649056353
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469538917221
+Iteration found Objective Value = 5.35570292217
+Iteration Parameters:[  0.89767509   0.92554153  22.41356636]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 34
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89768897   0.92552566  22.41380409]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 35
+Iteration found average inverse distance = 0.33649056353
+Iteration found average edge count = 45.0
+Iteration found average edge ratio of = 0.469538917221
+Iteration found Objective Value = 5.35570292217
+Iteration Parameters:[  0.89767482   0.92554142  22.41370754]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 36
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89768167   0.92552968  22.4136838 ]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 37
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89767358   0.9255328   22.41374727]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 38
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89768117   0.92553237  22.41376176]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 39
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89767746   0.92553213  22.41370358]
+
+Seed of Algorithm: 11
+Efficiency Scale: 2.75
+Number of Evalutations: 40
+Iteration found average inverse distance = 0.336271265284
+Iteration found average edge count = 44.8333333333
+Iteration found average edge ratio of = 0.467765867575
+Iteration found Objective Value = 5.34093167011
+Iteration Parameters:[  0.89767854   0.92553564  22.4136943 ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 1
+Iteration found average inverse distance = 0.346563995215
+Iteration found average edge count = 46.1666666667
+Iteration found average edge ratio of = 0.481458480622
+Iteration found Objective Value = 5.35237665269
+Iteration Parameters:[  0.8625   0.8625  15.    ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 2
+Iteration found average inverse distance = 0.316576051872
+Iteration found average edge count = 41.5
+Iteration found average edge ratio of = 0.429571542619
+Iteration found Objective Value = 5.16619298027
+Iteration Parameters:[  1.575    0.8625  15.    ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 3
+Iteration found average inverse distance = 0.316576051872
+Iteration found average edge count = 41.5
+Iteration found average edge ratio of = 0.429571542619
+Iteration found Objective Value = 5.16619298027
+Iteration Parameters:[  0.8625   1.575   15.    ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 4
+Iteration found average inverse distance = 0.363175125313
+Iteration found average edge count = 48.5
+Iteration found average edge ratio of = 0.504071211221
+Iteration found Objective Value = 111.146651883
+Iteration Parameters:[  0.8625   0.8625  21.25  ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 5
+Iteration found average inverse distance = 0.534963450292
+Iteration found average edge count = 94.5
+Iteration found average edge ratio of = 0.977785145889
+Iteration found Objective Value = 6.4950464669
+Iteration Parameters:[  0.15     0.8625  15.    ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 6
+Iteration found average inverse distance = 0.534963450292
+Iteration found average edge count = 94.5
+Iteration found average edge ratio of = 0.977785145889
+Iteration found Objective Value = 6.4950464669
+Iteration Parameters:[  0.8625   0.15    15.    ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 7
+Iteration found average inverse distance = 0.351097203235
+Iteration found average edge count = 45.3333333333
+Iteration found average edge ratio of = 0.472593232395
+Iteration found Objective Value = 5.15843466043
+Iteration Parameters:[ 0.8625  0.8625  8.75  ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 8
+Iteration found average inverse distance = 0.248956308068
+Iteration found average edge count = 32.8333333333
+Iteration found average edge ratio of = 0.345080191831
+Iteration found Objective Value = 83.8557469416
+Iteration Parameters:[  1.29934287   1.29934287  11.86363806]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 9
+Iteration found average inverse distance = 0.396738895851
+Iteration found average edge count = 57.6666666667
+Iteration found average edge ratio of = 0.601909240332
+Iteration found Objective Value = 5.84586613643
+Iteration Parameters:[ 0.62245548  0.62245548  7.80233438]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 10
+Iteration found average inverse distance = 0.337791353383
+Iteration found average edge count = 46.6666666667
+Iteration found average edge ratio of = 0.482243278933
+Iteration found Objective Value = 5.45822598223
+Iteration Parameters:[ 0.8625   0.93375  8.125  ]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 11
+Iteration found average inverse distance = 0.376513553454
+Iteration found average edge count = 50.6666666667
+Iteration found average edge ratio of = 0.523432526232
+Iteration found Objective Value = 5.37964393512
+Iteration Parameters:[ 0.70645443  0.94837935  8.73472566]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 12
+Iteration found average inverse distance = 0.323890281259
+Iteration found average edge count = 43.8333333333
+Iteration found average edge ratio of = 0.45564620513
+Iteration found Objective Value = 5.3551975829
+Iteration Parameters:[ 0.91288136  0.8625      8.30805826]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 13
+Iteration found average inverse distance = 0.362309292803
+Iteration found average edge count = 48.1666666667
+Iteration found average edge ratio of = 0.501241464165
+Iteration found Objective Value = 5.33739863864
+Iteration Parameters:[ 0.83944558  0.81818127  8.30436295]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 14
+Iteration found average inverse distance = 0.357727510063
+Iteration found average edge count = 48.1666666667
+Iteration found average edge ratio of = 0.499578936182
+Iteration found Objective Value = 114.072805995
+Iteration Parameters:[ 0.87739265  0.80672704  9.11634217]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 15
+Iteration found average inverse distance = 0.351097203235
+Iteration found average edge count = 45.3333333333
+Iteration found average edge ratio of = 0.472593232395
+Iteration found Objective Value = 5.15843466043
+Iteration Parameters:[ 0.81283676  0.913587    8.75432887]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 16
+Iteration found average inverse distance = 0.365080931495
+Iteration found average edge count = 49.6666666667
+Iteration found average edge ratio of = 0.515820289079
+Iteration found Objective Value = 5.47666489055
+Iteration Parameters:[ 0.86269609  0.8879603   8.53142656]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 17
+Iteration found average inverse distance = 0.365599937343
+Iteration found average edge count = 49.6666666667
+Iteration found average edge ratio of = 0.515820289079
+Iteration found Objective Value = 5.46830480516
+Iteration Parameters:[ 0.87342107  0.87342107  8.82784095]
+
+Seed of Algorithm: 10
+Efficiency Scale: 2.75
+Number of Evalutations: 18
+Iteration found average inverse distance = 0.352919641275
+Iteration found average edge count = 45.5
+Iteration found average edge ratio of = 0.47436628204
+Iteration found Objective Value = 5.1561588983
+Iteration Parameters:[ 0.84898797  0.87381673  8.72739336]
+
